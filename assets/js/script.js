@@ -7,6 +7,17 @@ function NavBar() {
     }
 }
 
+function login() {
+    var uname = document.getElementsByName('uname')[0].value;
+    var psw = document.getElementsByName('psw')[0].value;
+
+    if (uname === '1234@1234' && psw === '1234') {
+        alert('Login realizado com sucesso!');
+    } else {
+        alert('Email ou senha incorretos!');
+    }
+}
+
 function LoGin() {
     window.location.href = "login/login.html";
 }
