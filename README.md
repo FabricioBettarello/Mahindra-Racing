@@ -4,7 +4,7 @@ A Mahindra é uma empresa de automóveis vinda da Índia, que fabrica automóvei
 
 ## Autores
 
-Fabricio Bettarello, Eric Yuji, Higor Kauan, Athos Rodrigues e Kaue Pires
+Fabricio Bettarello RM 554638, Eric Yuji RM 554869, Higor Kauan RM 558907, Athos Rodrigues RM 555515 e Kaue Pires RM 554403
 
 ## Usuário e senha da página de login
 
